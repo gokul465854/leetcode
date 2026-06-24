@@ -54,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/gokul465854/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0619-biggest-single-number](https://github.com/gokul465854/leetcode/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/gokul465854/leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1280-students-and-examinations](https://github.com/gokul465854/leetcode/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
