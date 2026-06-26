@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/gokul465854/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gokul465854/leetcode/tree/master/0016-3sum-closest) |
+| [0189-rotate-array](https://github.com/gokul465854/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gokul465854/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gokul465854/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gokul465854/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gokul465854/leetcode/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/gokul465854/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/gokul465854/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gokul465854/leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/gokul465854/leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gokul465854/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sliding Window
 |  |
