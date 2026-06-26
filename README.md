@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gokul465854/leetcode/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/gokul465854/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/gokul465854/leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/gokul465854/leetcode/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/gokul465854/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1280-students-and-examinations](https://github.com/gokul465854/leetcode/tree/master/1280-students-and-examinations) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/gokul465854/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
