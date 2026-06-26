@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/gokul465854/leetcode/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/gokul465854/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gokul465854/leetcode/tree/master/0283-move-zeroes) |
+| [0321-create-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0321-create-maximum-number) |
 | [0414-third-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gokul465854/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/gokul465854/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gokul465854/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/gokul465854/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gokul465854/leetcode/tree/master/0283-move-zeroes) |
+| [0321-create-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0321-create-maximum-number) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0321-create-maximum-number) |
 | [0561-array-partition](https://github.com/gokul465854/leetcode/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -66,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gokul465854/leetcode/tree/master/0125-valid-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0321-create-maximum-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
