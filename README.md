@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/gokul465854/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gokul465854/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/gokul465854/leetcode/tree/master/0042-trapping-rain-water) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gokul465854/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/gokul465854/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gokul465854/leetcode/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0321-create-maximum-number) |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gokul465854/leetcode/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gokul465854/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
