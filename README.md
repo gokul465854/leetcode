@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/gokul465854/leetcode/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gokul465854/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/gokul465854/leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/gokul465854/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/gokul465854/leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/gokul465854/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Stack
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gokul465854/leetcode/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/gokul465854/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/gokul465854/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/gokul465854/leetcode/tree/master/0086-partition-list) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/gokul465854/leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
