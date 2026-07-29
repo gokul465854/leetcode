@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/gokul465854/leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/gokul465854/leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/gokul465854/leetcode/tree/master/0189-rotate-array) |
 | [0507-perfect-number](https://github.com/gokul465854/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/gokul465854/leetcode/tree/master/0509-fibonacci-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/gokul465854/leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/gokul465854/leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gokul465854/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/gokul465854/leetcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/gokul465854/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/gokul465854/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/gokul465854/leetcode/tree/master/0344-reverse-string) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/gokul465854/leetcode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/gokul465854/leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Linked List
 |  |
