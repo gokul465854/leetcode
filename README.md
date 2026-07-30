@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/gokul465854/leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/gokul465854/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0290-word-pattern](https://github.com/gokul465854/leetcode/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gokul465854/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gokul465854/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/gokul465854/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/gokul465854/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/gokul465854/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0290-word-pattern](https://github.com/gokul465854/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/gokul465854/leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/gokul465854/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Stack
