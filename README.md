@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gokul465854/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gokul465854/leetcode/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0321-create-maximum-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gokul465854/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gokul465854/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/gokul465854/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gokul465854/leetcode/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/gokul465854/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/gokul465854/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/gokul465854/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/gokul465854/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/gokul465854/leetcode/tree/master/1089-duplicate-zeros) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gokul465854/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gokul465854/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gokul465854/leetcode/tree/master/0018-4sum) |
+| [0349-intersection-of-two-arrays](https://github.com/gokul465854/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/gokul465854/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gokul465854/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gokul465854/leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/gokul465854/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0290-word-pattern](https://github.com/gokul465854/leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/gokul465854/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gokul465854/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gokul465854/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gokul465854/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/gokul465854/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gokul465854/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Matrix
 |  |
