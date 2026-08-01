@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/gokul465854/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/gokul465854/leetcode/tree/master/0086-partition-list) |
+| [0203-remove-linked-list-elements](https://github.com/gokul465854/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/gokul465854/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/gokul465854/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
