@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/gokul465854/leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/gokul465854/leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/gokul465854/leetcode/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/gokul465854/leetcode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/gokul465854/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/gokul465854/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gokul465854/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/gokul465854/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/gokul465854/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/gokul465854/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
