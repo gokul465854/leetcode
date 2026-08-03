@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/gokul465854/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/gokul465854/leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/gokul465854/leetcode/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/gokul465854/leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/gokul465854/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gokul465854/leetcode/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0321-create-maximum-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gokul465854/leetcode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/gokul465854/leetcode/tree/master/0143-reorder-list) |
 | [0321-create-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0321-create-maximum-number) |
 ## Monotonic Stack
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/gokul465854/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/gokul465854/leetcode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/gokul465854/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/gokul465854/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Backtracking
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/gokul465854/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/gokul465854/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/gokul465854/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/gokul465854/leetcode/tree/master/0509-fibonacci-number) |
