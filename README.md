@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/gokul465854/leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/gokul465854/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/gokul465854/leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/gokul465854/leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/gokul465854/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gokul465854/leetcode/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0321-create-maximum-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gokul465854/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gokul465854/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gokul465854/leetcode/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/gokul465854/leetcode/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/gokul465854/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/gokul465854/leetcode/tree/master/0561-array-partition) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/gokul465854/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/gokul465854/leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/gokul465854/leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/gokul465854/leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/gokul465854/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Backtracking
 |  |
@@ -176,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/gokul465854/leetcode/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/gokul465854/leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/gokul465854/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
