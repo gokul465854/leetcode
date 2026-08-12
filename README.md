@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/gokul465854/leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/gokul465854/leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/gokul465854/leetcode/tree/master/0326-power-of-three) |
+| [0445-add-two-numbers-ii](https://github.com/gokul465854/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/gokul465854/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/gokul465854/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gokul465854/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gokul465854/leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/gokul465854/leetcode/tree/master/0143-reorder-list) |
 | [0321-create-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0321-create-maximum-number) |
+| [0445-add-two-numbers-ii](https://github.com/gokul465854/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/gokul465854/leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/gokul465854/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/gokul465854/leetcode/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/gokul465854/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/gokul465854/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gokul465854/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Backtracking
