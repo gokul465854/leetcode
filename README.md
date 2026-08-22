@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gokul465854/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gokul465854/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gokul465854/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gokul465854/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/gokul465854/leetcode/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/gokul465854/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gokul465854/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/gokul465854/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gokul465854/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gokul465854/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gokul465854/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gokul465854/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/gokul465854/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/gokul465854/leetcode/tree/master/0061-rotate-list) |
