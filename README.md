@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/gokul465854/leetcode/tree/master/0321-create-maximum-number) |
 | [0445-add-two-numbers-ii](https://github.com/gokul465854/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/gokul465854/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/gokul465854/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gokul465854/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gokul465854/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/gokul465854/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/gokul465854/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gokul465854/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gokul465854/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/gokul465854/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/gokul465854/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
